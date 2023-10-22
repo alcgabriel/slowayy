@@ -1,3 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=shark&color=2322F7FF&height=120&section=header"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2322F7&center=true&random=false&width=500&lines=Hello+my+name+is+Gabriel;I'm+18+years+old;I+from+Brasil+%F0%9F%87%A7%F0%9F%87%B7;Student+at+computer+science" alt="Typing SVG" /></a>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oxzw&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width=100% src="https://capsule-render.vercel.app/api?type=shark&color=2322F7FF&height=120&section=header"/> <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2322F7&center=true&random=false&width=1000&lines=Hello+my+name+is+Gabriel;I'm+18+years+old;I+from+Brasil+%F0%9F%87%A7%F0%9F%87%B7;Student+at+computer+science)](https://git.io/typing-svg) <br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oxzw&bg_color=18188f&color=ffffff&line=000000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
