@@ -18,7 +18,7 @@
 <div align="center"> 
  <h3>OS:</h3>
   <a href="https://www.microsoft.com/pt-br/windows/" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"</a> <br>
-  <a href="archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"</a>
+  <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"</a>
 </div>
 
 
