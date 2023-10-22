@@ -22,3 +22,10 @@
 </div>
 
 
+
+<div align="center"> 
+ <h3>Social Media:</h3>
+  <a href="https://t.me/oxzwz" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"</a>
+  <a href="https://www.reddit.com/user/oxzw/" target="_blank"><img src=""</a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a> <p>:fxff_</p>
+</div>
