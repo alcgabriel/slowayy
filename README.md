@@ -28,7 +28,7 @@
   <a href="https://t.me/oxzhz" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"</a>
   <a href="https://www.reddit.com/user/oxzh/" target="_blank"><img src="https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500"</a> <br>
    
-  <p>Discord: fxff_</p>
+  <p>Discord: oxzh</p>
 </div>
 
 <div align="center">
