@@ -16,6 +16,17 @@
 </div>
 
 <div align="center"> 
+  <h3>planning to study</h3>
+   <a href="https://elixir-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
+   <a href="https://lua.org/" target="_blank"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+   <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+</div>
+
+  <!-- <a href=" " target="_blank"><img src=" "> -->
+
+
+
+<div align="center"> 
  <h3>OS:</h3>
   <a href="https://www.microsoft.com/pt-br/windows/" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"</a> <br>
   <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"</a>
