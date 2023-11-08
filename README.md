@@ -7,6 +7,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxzh&layout=compact&hide_border=true&title_color=7B68EE&text_color=7B68EE&bg_color=0d1117" />
 </div>
 
+
+<!--Gif's-->  
+
 <a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f">
 
 
@@ -17,12 +20,13 @@
 ### Planning to study:
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 
+<!--Gif's-->  
+
+<a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f">
+
+
 
   <!-- <img src=" "> -->
-
-
-<!-- Linha Mexendo-->  
-
 <div align="center">
 <a href="https://discord.com/users/344172971948244993">
   <img src="https://lanyard.cnrad.dev/api/344172971948244993?idleMessage=Love%20Lain!&bg=18188f">
