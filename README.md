@@ -96,5 +96,6 @@
 # I am . . .
 <div align="center">
 <img src="https://github.com/oxzh/oxzh/assets/85556196/e2bd726b-02b6-41e5-a7b9-9f1ba5cd4242">
-</div>
+</div> 
+
 # God
