@@ -39,12 +39,18 @@
   <a href="https://t.me/oxzhz" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"</a>
   <a href="https://www.reddit.com/user/oxzh/" target="_blank"><img src="https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500"</a> <br>
    
-  <p>Discord: oxzh</p>
-</div>
 
+<a href="https://discord.com/users/344172971948244993">
+  <img src="https://lanyard.cnrad.dev/api/344172971948244993">
+</a>
+
+
+</div>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=oxzh&style=for-the-badge&color=blueviolet" /></p> 
 <br>
 </div>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2322F7FF&height=120&section=footer"/>
