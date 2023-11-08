@@ -20,9 +20,6 @@
 ### Planning to study:
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 
-<!--Gif's-->  
-
-<a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f">
 
 <!-- <img src=" "> -->
 
@@ -36,6 +33,10 @@
 </div>
 <br>
 
+<!--Gif's-->  
+
+<a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f">
+
 
 <!--Lain Sun!-->
 
@@ -46,7 +47,7 @@
 <img src="https://github.com/oxzh/oxzh/assets/85556196/2bcbd187-edc9-4d76-966f-be4842bb960c">
 <br>
 
-  <!--
+<!--
   <h3>Songs</h3> <br>
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=gabriel1046362005">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=gabriel1046362005" alt="Data Card for Spotify">
@@ -63,3 +64,37 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2322F7FF&height=120&section=footer"/>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+# I am . . .
+<div align="center">
+<img src="https://github.com/oxzh/oxzh/assets/85556196/e2bd726b-02b6-41e5-a7b9-9f1ba5cd4242">
+</div>
+# God
