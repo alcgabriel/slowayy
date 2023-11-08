@@ -16,7 +16,7 @@
 </div>
 
 <div align="center"> 
-  <h3>planning to study</h3>
+  <h3>Planning to study</h3>
    <a href="https://elixir-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
    <a href="https://lua.org/" target="_blank"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
@@ -42,11 +42,20 @@
 
 <a href="https://discord.com/users/344172971948244993">
   <img src="https://lanyard.cnrad.dev/api/344172971948244993?idleMessage=Love%20Lain!&bg=18188f">
-  
 </a> <br>
-
-
 </div>
+<br>
+
+<div align="center">
+  
+  <h3>Songs</h3> <br>
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=gabriel1046362005">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=gabriel1046362005" alt="Data Card for Spotify">
+</a>
+</div>
+
+
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=oxzh&style=for-the-badge&color=blueviolet" /></p> 
