@@ -24,9 +24,11 @@
 
 <a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f">
 
+<!-- <img src=" "> -->
 
 
-  <!-- <img src=" "> -->
+<!--Discord Embed-->
+
 <div align="center">
 <a href="https://discord.com/users/344172971948244993">
   <img src="https://lanyard.cnrad.dev/api/344172971948244993?idleMessage=Love%20Lain!&bg=18188f">
@@ -35,7 +37,14 @@
 <br>
 
 
+<!--Lain Sun!-->
 
+<div align="center">
+<img src="https://github.com/oxzh/oxzh/assets/85556196/b0943870-747e-4cfd-a40d-8b134d6812e2"> <br>
+
+
+<img src="https://github.com/oxzh/oxzh/assets/85556196/2bcbd187-edc9-4d76-966f-be4842bb960c">
+<br>
 
   <!--
   <h3>Songs</h3> <br>
