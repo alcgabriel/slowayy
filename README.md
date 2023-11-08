@@ -41,8 +41,9 @@
    
 
 <a href="https://discord.com/users/344172971948244993">
-  <img src="https://lanyard.cnrad.dev/api/344172971948244993">
-</a>
+  <img src="https://lanyard.cnrad.dev/api/344172971948244993?idleMessage=Love%20Lain!&bg=18188f">
+  
+</a> <br>
 
 
 </div>
