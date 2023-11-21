@@ -35,7 +35,7 @@
 
 <!--Gif's: ALL RESET-->  
 
-<a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><a href=""><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f">
+<img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f">
 
 
 <!--Lain Sun!-->
@@ -80,7 +80,7 @@
 <br>
 <br>
 <br> <!--Japanese-->
-<img src="https://github.com/oxzh/oxzh/assets/85556196/383a33fe-eb49-4482-a2f6-d10259b36eaa">
+<!--<img src="https://github.com/oxzh/oxzh/assets/85556196/383a33fe-eb49-4482-a2f6-d10259b36eaa">-->
 <br>
 <br>
 <br>
