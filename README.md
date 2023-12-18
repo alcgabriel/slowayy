@@ -1,10 +1,9 @@
 <!--Gif's: ALL RESET-->  
 
 <img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"> <br>
-<div>  
-<!--Gengar and neco-->
+<div align="center">  
+<!--Gengar-->
 <img src="https://github.com/oxzh/oxzh/assets/85556196/9f6b804a-35bd-4ebf-bf32-f8d75e8d6965">
-<img src="https://github.com/oxzh/oxzh/assets/85556196/f131120b-b103-4bec-b693-be28a1010272">
 
 </div>
 
@@ -27,6 +26,12 @@
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 
 - ⚡ Fun fact: i love everything is about computers and anime... and play's osu! a lot
+
+  <!--neco-->
+<div align="left">  
+
+<img src="https://github.com/oxzh/oxzh/assets/85556196/f131120b-b103-4bec-b693-be28a1010272">
+</div>
 
 </details>
 
