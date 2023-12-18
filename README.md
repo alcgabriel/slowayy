@@ -4,15 +4,16 @@
 ![gengar](https://github.com/oxzh/oxzh/assets/85556196/9f6b804a-35bd-4ebf-bf32-f8d75e8d6965)
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oxzh&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=7B68EE&bg_color=0d1117" alt="oxzh github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxzh&layout=compact&hide_border=true&title_color=7B68EE&text_color=7B68EE&bg_color=0d1117" />
-</div>
 
 
 
 <details>
   <summary>⌨️</summary>
+
+  <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oxzh&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=7B68EE&bg_color=0d1117" alt="oxzh github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxzh&layout=compact&hide_border=true&title_color=7B68EE&text_color=7B68EE&bg_color=0d1117" />
+</div>
   
   ### Studing in this moment:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
@@ -50,7 +51,7 @@
 <br>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"></p>  
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=oxzh&style=for-the-badge&color=blueviolet" /></p> 
 <br>
 </div>
