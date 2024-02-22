@@ -25,7 +25,7 @@
   ### Planning to study:
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 
-- ⚡ Fun fact: i love everything is about computers and anime... and play's osu! a lot
+- ⚡ Fun fact: i love everything about computers and anime... and play a lot osu!
 
   <!--neco-->
 <div align="left">  
