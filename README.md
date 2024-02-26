@@ -1,8 +1,10 @@
-<!--Gif's: ALL RESET-->  
+<!--
 
 <img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"> <br>
 <div align="center">  
-<!--Gengar-->
+
+
+
 <img src="https://github.com/oxzh/oxzh/assets/85556196/9f6b804a-35bd-4ebf-bf32-f8d75e8d6965">
 
 </div>
@@ -27,7 +29,7 @@
 
 - ⚡ Fun fact: i love everything about computers and anime... and play a lot osu!
 
-  <!--neco-->
+
 <div align="left">  
 
 <img src="https://github.com/oxzh/oxzh/assets/85556196/f131120b-b103-4bec-b693-be28a1010272">
@@ -37,10 +39,9 @@
 
 
 
-<!-- <img src=" "> -->
 
 
-<!--Discord Embed-->
+
 
 <div align="center">
 <a href="https://discord.com/users/344172971948244993">
@@ -51,12 +52,12 @@
 
 
 
-<!--Lain Sun!-->
+
 
 <div align="center">
 <img src="https://github.com/oxzh/oxzh/assets/85556196/b0943870-747e-4cfd-a40d-8b134d6812e2"> <br>
 
-<!--Lain!-->
+
 <img src="https://github.com/oxzh/oxzh/assets/85556196/2bcbd187-edc9-4d76-966f-be4842bb960c">
 <br>
 
@@ -67,7 +68,7 @@
 </div>
 
 
-<!--Gif's: ALL RESET-->  
+
 
 <img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f"><img src="https://github.com/oxzh/oxzh/assets/85556196/dc7d2aff-6f13-48e5-a8c6-aa52a458391f">
 <details>
@@ -86,8 +87,8 @@
 <br>
 <br>
 <br>
-<br> <!--Japanese-->
-<!--<img src="https://github.com/oxzh/oxzh/assets/85556196/383a33fe-eb49-4482-a2f6-d10259b36eaa">-->
+<br> 
+<img src="https://github.com/oxzh/oxzh/assets/85556196/383a33fe-eb49-4482-a2f6-d10259b36eaa"
 <br>
 <br>
 <br>
@@ -141,3 +142,7 @@
 
 # **God** <br>ㅤㅤ **神** 
 </details>
+-->
+
+
+![Group 1](https://github.com/oxzh/oxzh/assets/85556196/4e5ce905-4d7a-49aa-a7f2-1a006f305d4f)
