@@ -1,5 +1,4 @@
-![Img](https://github.com/oxzh/oxzh/assets/85556196/1cee9105-1795-4b79-afbb-cc28a960bf44)
-
+![Github](https://github.com/slowayy/slowayy/assets/85556196/d25e9cc5-8dd3-4261-bbe3-54cb4946d7cd)
 
 
 <!--
