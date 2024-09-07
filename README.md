@@ -8,4 +8,4 @@
 <br>
 </div>
 -->
-_Since i started coding i did **348 commits**, opened **4 issues**, made **8 pull requests**, contributed to **9 private and open-source projects**._
+_Since i started coding i did **349 commits**, opened **4 issues**, made **8 pull requests** and contributed to **9 private and open-source projects**._
