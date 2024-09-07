@@ -9,3 +9,8 @@
 </div>
 -->
 _Since i started coding i did **{{ COMMITS }} commits**, opened **{{ ISSUES }} issues**, made **{{ PULL_REQUESTS }} pull requests** and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }} open-source projects**._
+{{ LANGUAGE_TEMPLATE_START }}
+
+{{ LANGUAGE_NAME }}
+
+{{ LANGUAGE_TEMPLATE_END }}
