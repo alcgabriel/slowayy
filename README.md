@@ -8,3 +8,4 @@
 <br>
 </div>
 -->
+Since i started coding i did {{ COMMITS }}, opened {{ ISSUES }}, made {{ PULL_REQUESTS }}, contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} {{ LANGUAGE_NAME }}
