@@ -8,4 +8,4 @@
 <br>
 </div>
 -->
-Since i started coding i did {{ COMMITS }}, opened {{ ISSUES }}, made {{ PULL_REQUESTS }}, contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} {{ LANGUAGE_NAME }}
+Since i started coding i did 344, opened 4, made 8, contributed to 9 {{ LANGUAGE_NAME }}
