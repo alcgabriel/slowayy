@@ -8,5 +8,4 @@
 <br>
 </div>
 -->
-_Since i started coding i did **{{ COMMITS }} commits**, opened **{{ ISSUES }} issues**, made **{{ PULL_REQUESTS }} pull requests**, contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }} private and open-source projects**.
-_
+_Since i started coding i did **{{ COMMITS }} commits**, opened **{{ ISSUES }} issues**, made **{{ PULL_REQUESTS }} pull requests**, contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }} private and open-source projects**._
