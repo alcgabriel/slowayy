@@ -8,4 +8,28 @@
 <br>
 </div>
 -->
-_Since i started coding i did **350 commits**, opened **4 issues**, made **8 pull requests** and contributed to **9 open-source projects**._
+_Since i started coding i did **351 commits**, opened **4 issues**, made **8 pull requests** and contributed to **9 open-source projects**._
+
+Lua
+
+
+HTML
+
+
+Java
+
+
+QML
+
+
+Python
+
+
+Shell
+
+
+PHP
+
+
+Other
+
