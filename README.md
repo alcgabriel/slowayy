@@ -1,4 +1,5 @@
-![Github](https://github.com/slowayy/slowayy/assets/85556196/d25e9cc5-8dd3-4261-bbe3-54cb4946d7cd)
+<!-- ![Github](https://github.com/slowayy/slowayy/assets/85556196/d25e9cc5-8dd3-4261-bbe3-54cb4946d7cd)-->
+![Github-2](https://github.com/user-attachments/assets/7e4bb286-9c09-400c-b70d-b245a4decc31)
 
 
 <!--
