@@ -9,4 +9,4 @@
 <br>
 </div>
 -->
-_Since i started coding i did **497 commits**, opened **4 issues**, made **8 pull requests** and contributed to **4 open-source projects**._
+_Since i started coding i did **498 commits**, opened **4 issues**, made **8 pull requests** and contributed to **4 open-source projects**._
